@@ -17,8 +17,8 @@ The goal is to help businesses understand customer behavior, identify trending f
 
 ## 👥 Team – A
 
-- Krishnamachari Rout  
 - Ganesh Reddy  
+- Krishnamachari Rout  
 - Mohith Srinivas  
 - Malla Saranya  
 - Ashmitha Boini  
